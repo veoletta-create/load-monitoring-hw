@@ -12,10 +12,9 @@
 7. Сделаны скриншоты состояния метрик в покое (длительность 15+ минут).
 
 **Скриншоты Telegraf:**
-- `telegraf-cpu.png`
-- `telegraf-memory.png`
-- `telegraf-network.png`
-- `telegraf-disk.png`
+![Memory](screenshots/telegraf-memory.png)
+![Network](screenshots/telegraf-network.png)
+![Disk](screenshots/telegraf-disk.png)
 
 ---
 
@@ -30,6 +29,6 @@
 6. Сделан скриншот интерфейса Grafana с метриками системы в покое (длительность 15+ минут).
 
 **Скриншоты Prometheus:**
-- `prometheus-dashboard.png`
-- `prometheus-quick-overview.png`
-- `prometheus-basic-metrics.png`
+![Dashboard](screenshots/prometheus-dashboard.png)
+![Quick Overview](screenshots/prometheus-quick-overview.png)
+![Basic Metrics](screenshots/prometheus-basic-metrics.png)
